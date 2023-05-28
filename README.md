@@ -99,3 +99,12 @@ https://solar-naresh.netlify.app/
 
 
 ## Screenshots
+
+Home Page
+![HomePage](https://github.com/nareshkumaralaria/book-inventory-management/assets/57484597/a2a11661-ec76-4e9c-ac68-20ffd0986641)
+
+Add Item To Inventory
+![Add Item To Inventory](https://github.com/nareshkumaralaria/book-inventory-management/assets/57484597/66ac5e96-1d0e-499a-9a91-e9690fa657cc)
+
+Adjust Stock
+![Adjust Stock](https://github.com/nareshkumaralaria/book-inventory-management/assets/57484597/f474d793-dd4c-4ba7-b612-64b5d0b5c558)
